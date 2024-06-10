@@ -1,4 +1,4 @@
-#! /usr/bin/env node
+
 // // countdown.ts
 const targetSeconds = 600; // 10 minutes
 function formatTime(seconds) {
